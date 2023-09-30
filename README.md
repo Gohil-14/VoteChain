@@ -1,3 +1,6 @@
+![VoteChain1](https://github.com/Gohil-14/VoteChain/assets/105907265/45dd0e19-e1db-4c55-8d8f-5abcb957688a)
+
+
 # Substrate Node Template
 
 A fresh [Substrate](https://substrate.io/) node, ready for hacking :rocket:
